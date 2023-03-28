@@ -1,0 +1,33 @@
+body {
+    background-color: burlywood
+}
+
+.clgInfo {
+    column-count: 2;
+    column-gap: 500px;
+}
+
+.intro {
+    text-align: left;
+}
+
+#clg {
+    text-align: center;
+    background-color: chocolate
+}
+
+#abt {
+    background-color: chocolate
+}
+
+#hob {
+    background-color: chocolate
+}
+
+.table {
+    background-color: chocolate
+}
+
+.all {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
